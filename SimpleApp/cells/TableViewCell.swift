@@ -1,26 +1,26 @@
+////
+////  TableViewCell.swift
+////  SimpleApp
+////
+////  Created by Kuanyshbay Ibragim on 07.01.2021.
+////
 //
-//  TableViewCell.swift
-//  SimpleApp
+//import UIKit
 //
-//  Created by Kuanyshbay Ibragim on 07.01.2021.
+//class TableViewCell: UITableViewCell {
 //
-
-import UIKit
-
-class TableViewCell: UITableViewCell {
-
-    
-    @IBOutlet weak var titleLabel: UILabel!
-    
-    override func awakeFromNib() {
-        super.awakeFromNib()
-        // Initialization code
-    }
-
-    override func setSelected(_ selected: Bool, animated: Bool) {
-        super.setSelected(selected, animated: animated)
-
-        // Configure the view for the selected state
-    }
-    
-}
+//    
+////    @IBOutlet weak var titleLabel: UILabel!
+//    
+//    override func awakeFromNib() {
+//        super.awakeFromNib()
+//        // Initialization code
+//    }
+//
+//    override func setSelected(_ selected: Bool, animated: Bool) {
+//        super.setSelected(selected, animated: animated)
+//
+//        // Configure the view for the selected state
+//    }
+//    
+//}

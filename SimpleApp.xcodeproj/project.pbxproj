@@ -7,37 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		952A843625B190B800BB4C94 /* AddItemVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952A843525B190B800BB4C94 /* AddItemVC.swift */; };
+		9553339025ADFB440088E59E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9553338F25ADFB440088E59E /* ViewController.swift */; };
 		955DF81325A85B6E00100084 /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 955DF81225A85B6E00100084 /* ToDoItem.swift */; };
 		9598091025A5AE3100D877C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598090F25A5AE3100D877C1 /* AppDelegate.swift */; };
 		9598091225A5AE3100D877C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598091125A5AE3100D877C1 /* SceneDelegate.swift */; };
-		9598091425A5AE3100D877C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598091325A5AE3100D877C1 /* ViewController.swift */; };
 		9598091725A5AE3100D877C1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9598091525A5AE3100D877C1 /* Main.storyboard */; };
 		9598091925A5AE3500D877C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9598091825A5AE3500D877C1 /* Assets.xcassets */; };
 		9598091C25A5AE3500D877C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9598091A25A5AE3500D877C1 /* LaunchScreen.storyboard */; };
-		9598092725A5C24800D877C1 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598092625A5C24800D877C1 /* SecondViewController.swift */; };
+		9599324025B887820045798D /* EditVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9599323F25B887820045798D /* EditVC.swift */; };
 		95AC1EF025A775B9005BD18F /* Validation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95AC1EEF25A775B9005BD18F /* Validation.swift */; };
-		95AC1EF625A7808A005BD18F /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95AC1EF425A7808A005BD18F /* TableViewCell.swift */; };
-		95AC1EF725A7808A005BD18F /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 95AC1EF525A7808A005BD18F /* TableViewCell.xib */; };
-		95BFFB6C25AD9A6600AC8A2A /* TableViewVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BFFB6B25AD9A6600AC8A2A /* TableViewVC.swift */; };
 		95BFFB6F25AD9FDB00AC8A2A /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BFFB6E25AD9FDB00AC8A2A /* ThirdVC.swift */; };
+		95BFFB7225ADC15800AC8A2A /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95BFFB7125ADC15800AC8A2A /* MyTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		952A843525B190B800BB4C94 /* AddItemVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemVC.swift; sourceTree = "<group>"; };
+		9553338F25ADFB440088E59E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		955DF81225A85B6E00100084 /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
 		9598090C25A5AE3100D877C1 /* SimpleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9598090F25A5AE3100D877C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9598091125A5AE3100D877C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9598091325A5AE3100D877C1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9598091625A5AE3100D877C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9598091825A5AE3500D877C1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9598091B25A5AE3500D877C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9598091D25A5AE3500D877C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9598092625A5C24800D877C1 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		9599323F25B887820045798D /* EditVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditVC.swift; sourceTree = "<group>"; };
 		95AC1EEF25A775B9005BD18F /* Validation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validation.swift; sourceTree = "<group>"; };
-		95AC1EF425A7808A005BD18F /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		95AC1EF525A7808A005BD18F /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
-		95BFFB6B25AD9A6600AC8A2A /* TableViewVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewVC.swift; sourceTree = "<group>"; };
 		95BFFB6E25AD9FDB00AC8A2A /* ThirdVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
+		95BFFB7125ADC15800AC8A2A /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +93,7 @@
 		95AC1EF225A78043005BD18F /* cells */ = {
 			isa = PBXGroup;
 			children = (
-				95AC1EF425A7808A005BD18F /* TableViewCell.swift */,
-				95AC1EF525A7808A005BD18F /* TableViewCell.xib */,
+				95BFFB7125ADC15800AC8A2A /* MyTableViewCell.swift */,
 			);
 			path = cells;
 			sourceTree = "<group>";
@@ -104,10 +101,10 @@
 		95AC1EF325A78052005BD18F /* controllers */ = {
 			isa = PBXGroup;
 			children = (
-				9598092625A5C24800D877C1 /* SecondViewController.swift */,
-				9598091325A5AE3100D877C1 /* ViewController.swift */,
-				95BFFB6B25AD9A6600AC8A2A /* TableViewVC.swift */,
+				9553338F25ADFB440088E59E /* ViewController.swift */,
 				95BFFB6E25AD9FDB00AC8A2A /* ThirdVC.swift */,
+				952A843525B190B800BB4C94 /* AddItemVC.swift */,
+				9599323F25B887820045798D /* EditVC.swift */,
 			);
 			path = controllers;
 			sourceTree = "<group>";
@@ -170,7 +167,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9598091C25A5AE3500D877C1 /* LaunchScreen.storyboard in Resources */,
-				95AC1EF725A7808A005BD18F /* TableViewCell.xib in Resources */,
 				9598091925A5AE3500D877C1 /* Assets.xcassets in Resources */,
 				9598091725A5AE3100D877C1 /* Main.storyboard in Resources */,
 			);
@@ -184,12 +180,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				95BFFB6F25AD9FDB00AC8A2A /* ThirdVC.swift in Sources */,
-				95BFFB6C25AD9A6600AC8A2A /* TableViewVC.swift in Sources */,
-				9598092725A5C24800D877C1 /* SecondViewController.swift in Sources */,
-				9598091425A5AE3100D877C1 /* ViewController.swift in Sources */,
+				9599324025B887820045798D /* EditVC.swift in Sources */,
+				95BFFB7225ADC15800AC8A2A /* MyTableViewCell.swift in Sources */,
 				955DF81325A85B6E00100084 /* ToDoItem.swift in Sources */,
+				952A843625B190B800BB4C94 /* AddItemVC.swift in Sources */,
 				9598091025A5AE3100D877C1 /* AppDelegate.swift in Sources */,
-				95AC1EF625A7808A005BD18F /* TableViewCell.swift in Sources */,
+				9553339025ADFB440088E59E /* ViewController.swift in Sources */,
 				95AC1EF025A775B9005BD18F /* Validation.swift in Sources */,
 				9598091225A5AE3100D877C1 /* SceneDelegate.swift in Sources */,
 			);

@@ -11,5 +11,6 @@ import Foundation
 struct ToDoItem: Codable {
     var id: Int?
     var title: String?
+    var subtitle: String?
     var deadline: String?
 }
